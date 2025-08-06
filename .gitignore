@@ -8,3 +8,5 @@ outputs/
 datasets/*
 !datasets/sacre_coeur/
 datasets/sacre_coeur/query
+*.pdf
+full_data_sdrive_links.txt
