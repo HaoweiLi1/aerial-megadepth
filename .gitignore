@@ -10,3 +10,4 @@ datasets/*
 datasets/sacre_coeur/query
 *.pdf
 full_data_sdrive_links.txt
+megadepth_aerial_processed/
